@@ -4,7 +4,7 @@ import android.util.Log;
 
 import java.util.ArrayList;
 
-public class Container {
+public class Container{
 
     final static String TAG = "CONTAINER";
     Container instance;
@@ -37,5 +37,4 @@ public class Container {
         // searchfunction
         return null;
     }
-
 }
