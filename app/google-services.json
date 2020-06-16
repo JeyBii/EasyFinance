@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961776271954",
+    "firebase_url": "https://easyfinance-13c13.firebaseio.com",
+    "project_id": "easyfinance-13c13",
+    "storage_bucket": "easyfinance-13c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961776271954:android:ea177a0bf1f7b3205cd58b",
+        "android_client_info": {
+          "package_name": "com.example.easyfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961776271954-l5us95jbahheonshbk8k493ikqtd7u98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5t94yfV6vcf3Y64dpcG9ne4kxoyCLGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961776271954-l5us95jbahheonshbk8k493ikqtd7u98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
