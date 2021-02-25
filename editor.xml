@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.example.brainlight2go.other.Constants.TAG" />
+  </component>
+</application>
