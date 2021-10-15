@@ -2,9 +2,10 @@
   <component name="ConsoleFoldingSettings">
     <option name="addedPositive">
       <list>
+        <option value="I" />
         <option value="V" />
         <option value="W" />
-        <option value="I" />
+        <option value="(23.0.3) [CustomClassMapper]:" />
       </list>
     </option>
   </component>
