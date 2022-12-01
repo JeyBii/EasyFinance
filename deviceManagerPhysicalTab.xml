@@ -19,7 +19,18 @@
             <value value="adb-R58T51QL24V-X1ngOe._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-12-01T14:32:28.598887900Z" />
+        <name value="samsung SM-A135F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R58T51QL24V" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-12-01T15:32:19.137253400Z" />
         <name value="samsung SM-A135F" />
         <target value="Android 12.0" />
         <api value="31" />
