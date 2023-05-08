@@ -7,6 +7,7 @@
         <option value="V" />
         <option value="W" />
         <option value="W/DefaultLoadControl: Target buffer size reached with less than 500ms of buffered media data." />
+        <option value="W/RenderInspector: DequeueBuffer time out on app.brainlight.brainlight2go/app.brainlight.brainlight2go.ui.MainActivity, count=5, avg=14 ms, max=18 ms." />
       </list>
     </option>
   </component>
